@@ -1,0 +1,10 @@
+li a {
+    color: green;
+}
+a:active, a:hover, a:focus {
+    text-decoration: none;
+    color: inherit;
+}
+body {
+    background: white url(./images/background.gif) no-repeat;
+}
